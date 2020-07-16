@@ -1,0 +1,17 @@
+Flow of JEE application
+
+browser -> web server -> servlet -> view ( JSP / Freemarket )
+
+MVC flow
+To work with JSP variables, it has to be put into model
+Model			  - 										ToDo.java
+View 			  - Show whatever it is in the model 		login.jsp
+Controler/Servlet - directs to view, control the flow		LoginController.java
+
+Modeified MVC flow
+
+Front controller - dispatcherServlet picks
+				 - > LoginController, ToDoController
+		
+Spring Boot
+Easy to build to production grade

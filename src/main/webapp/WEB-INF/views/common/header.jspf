@@ -1,0 +1,18 @@
+<!-- JSTL tag, prefix used to refer to refer to this tag -->
+<!--  Bootstrap -->
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<!-- Formatting -->
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+<!--  Spring form -->
+<%@taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
+<jsp:useBean id="date" class="java.util.Date" />
+<html>
+<head>
+<title>To do list</title>
+<!-- Adding of bootstrap css files -->
+<link href="webjars/bootstrap/4.5.0/css/bootstrap.min.css"
+	rel="stylesheet">
+
+</head>
+
+<body>

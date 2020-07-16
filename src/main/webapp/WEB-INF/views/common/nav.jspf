@@ -1,0 +1,15 @@
+
+	<nav class="navbar navbar-expand-sm bg-light">
+		<div class="">
+				<!-- Branding -->
+			<a href="/login" class="navbar-brand">Home</a>
+		</div>
+		<!-- Links -->
+		<ul class="navbar-nav">
+				<!-- Nav bar items -->
+			<li class="nav-item"><a class="nav-link" href="/list-todo">Todo list</a></li>
+		</ul>
+	<ul class="nav navbar-nav navbar-right">
+      <li><a href="logout"><span class="glyphicon glyphicon-log-in"></span> Logout</a></li>
+    </ul>
+	</nav>

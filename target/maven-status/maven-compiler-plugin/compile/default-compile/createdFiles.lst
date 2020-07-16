@@ -1,0 +1,6 @@
+com\Alex\Controllers\ToDoService.class
+com\Alex\Security\SecurityConfiguration.class
+com\Alex\Security\MessageSecurityWebApplicationInitializer.class
+com\Alex\Controllers\WelcomeController.class
+com\Alex\Controllers\ToDo.class
+com\Alex\Controllers\ToDoController.class
