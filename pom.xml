@@ -97,7 +97,7 @@
 					<groupId>javax.el</groupId>
 				</exclusion>
 			</exclusions>
-			<version>5.0.0.RELEASE</version>
+			<version>5.2.20.RELEASE</version>
 		</dependency>
 
 		<dependency>
